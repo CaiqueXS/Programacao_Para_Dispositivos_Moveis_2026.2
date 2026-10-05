@@ -26,3 +26,5 @@ rootProject.name = "Programacao_Para_Dispositivos_Moveis_2026.2"
 include(":app")
 include(":aula6_atdsala")
 include(":aula6atdcasa")
+include(":aula7")
+include(":aula7atdcasa")
